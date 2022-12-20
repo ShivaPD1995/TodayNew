@@ -1,6 +1,6 @@
 
 public class Punter1 {
-// added
+// added conflict1
 public int hashCode()
 		{
 			return 143;

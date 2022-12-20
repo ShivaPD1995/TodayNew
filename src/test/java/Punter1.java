@@ -1,6 +1,6 @@
 
 public class Punter1 {
-
+//
 public int hashCode()
 		{
 			return 143;
